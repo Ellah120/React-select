@@ -1,0 +1,9 @@
+.shoe {
+  border: 2px solid black;
+  background-color: gray;
+  border-radius: 5px;
+  height: 30%;
+  width: 30%;
+  padding-left: 10px;
+  
+}
